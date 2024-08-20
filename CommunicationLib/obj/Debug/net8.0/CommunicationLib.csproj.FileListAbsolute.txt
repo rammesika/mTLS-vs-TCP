@@ -1,0 +1,11 @@
+C:\Users\we\source\repos\TLSvsTcpTransmission\CommunicationLib\obj\Debug\net8.0\CommunicationLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\we\source\repos\TLSvsTcpTransmission\CommunicationLib\obj\Debug\net8.0\CommunicationLib.AssemblyInfoInputs.cache
+C:\Users\we\source\repos\TLSvsTcpTransmission\CommunicationLib\obj\Debug\net8.0\CommunicationLib.AssemblyInfo.cs
+C:\Users\we\source\repos\TLSvsTcpTransmission\CommunicationLib\obj\Debug\net8.0\CommunicationLib.csproj.CoreCompileInputs.cache
+C:\Users\we\source\repos\TLSvsTcpTransmission\CommunicationLib\bin\Debug\net8.0\CommunicationLib.deps.json
+C:\Users\we\source\repos\TLSvsTcpTransmission\CommunicationLib\bin\Debug\net8.0\CommunicationLib.dll
+C:\Users\we\source\repos\TLSvsTcpTransmission\CommunicationLib\bin\Debug\net8.0\CommunicationLib.pdb
+C:\Users\we\source\repos\TLSvsTcpTransmission\CommunicationLib\obj\Debug\net8.0\CommunicationLib.dll
+C:\Users\we\source\repos\TLSvsTcpTransmission\CommunicationLib\obj\Debug\net8.0\refint\CommunicationLib.dll
+C:\Users\we\source\repos\TLSvsTcpTransmission\CommunicationLib\obj\Debug\net8.0\CommunicationLib.pdb
+C:\Users\we\source\repos\TLSvsTcpTransmission\CommunicationLib\obj\Debug\net8.0\ref\CommunicationLib.dll
