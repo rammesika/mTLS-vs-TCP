@@ -10,3 +10,5 @@
 *.tmp
 *.ide
 *.db
+*.rtf
+*.pfx
